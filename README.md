@@ -1,1 +1,1 @@
-# HR-Aanalytics-project-using-power-BI
+# HR-Analytics-project-using-power-BI
